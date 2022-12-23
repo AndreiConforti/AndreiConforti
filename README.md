@@ -1,16 +1,66 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1C6B94&height=160&section=header&text=Andrei%20Conforti🚀&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" width=100% />
 
-<!--
-**AndreiConforti/AndreiConforti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://media.discordapp.net/attachments/1016512634377482390/1016545689016213595/eu.png" style="border-radius:50px;" height="250" alt="Andrei-pic">
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Dev+Front-End)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+- ✌ <br>
+- Sou Andrei Conforti <br>
+- Arte e Tecnologia são minha paixão <br>
+- Estudante de Análise e Desenvolvimento de Sistemas <br>
+- Aprendendendo Desenvolvimento Web na B7Web e Origamid <br>
+- Estou focado nas tecnologias voltadas ao Front-End <br>
+- Atualmente estudando Javascript e React <br>
+- Busco constante aprendizado para me tornar Full Stack <br>
+</div>
+  
+***************
+
+<div align="center">
+  <a href="https://github.com/Leticia-Pinheiro">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreiConforti&theme=tokyonight" height="165em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiConforti&layout=compact&langs_count=7&theme=tokyonight" height="165em">
+</div>
+
+<h2 align="center">Linguagens e Ferramentas</h2>
+  <h3 align="center">Front End</h3>
+  <p align="center">
+    <img src="https://cdn.simpleicons.org/css3/1C6B94"  height="40" width="40"/> 
+    <img src="https://cdn.simpleicons.org/html5/1C6B94" height="40" width="40"/> 
+    <img src="https://cdn.simpleicons.org/javascript/1C6B94" height="40" width="40"/> 
+    <img src="https://cdn.simpleicons.org/react/1C6B94" height="40" width="40"/>           
+  </p>
+  
+  <h3 align="center">Back End</h3>
+  <p align="center">
+    <img src="https://cdn.simpleicons.org/nodedotjs/1C6B94" height="40" width="40"/>           
+  </p>
+  
+  <h3 align="center">Banco de Dados</h3>
+  <p align="center">
+    <img src="https://cdn.simpleicons.org/mysql/1C6B94" height="40" width="40"/> 
+  </p>
+  
+  <h3 align="center">DevOps</h3>
+  <p align="center">
+    <img src="https://cdn.simpleicons.org/docker/1C6B94" height="40" width="40"/>        
+  </p>
+  
+  <h3 align="center">Ferramentas</h3>
+  <p align="center">
+    <img src="https://cdn.simpleicons.org/visualstudio/1C6B94" height="40" width="40"/>    
+    <img src="https://cdn.simpleicons.org/figma/1C6B94" height="40" width="40"/> 
+    <img src="https://cdn.simpleicons.org/git/1C6B94" height="40" width="40"/> 
+  </p>
+
+***************
+
+<h2 align="center">Entre em contato:</h2>
+<p align="center">
+<a href = "mailto:andreiconforti97@gmail.com"><img src="https://img.shields.io/badge/Gmail-1C6B94?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>
+<a href="https://www.linkedin.com/in/andrei-conforti-49ba71225/
+" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1C6B94?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
+  
+***************
