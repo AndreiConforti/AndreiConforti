@@ -5,11 +5,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Dev+Front-End)](https://git.io/typing-svg)
 
 <div>
-- ✌ <br>
-- Sou Andrei Conforti <br>
-- Arte e Tecnologia são minha paixão <br>
-- Estudante de Análise e Desenvolvimento de Sistemas <br>
-- Aprendendendo Desenvolvimento Web na B7Web e Origamid <br>
+- Seja Bem Vindo <br>
+- Sou Andrei Conforti ✌ <br>
+- Um apaixonado por Tecnologia e Arte <br>
+- Estou cursando o 4° semestre em ADS <br>
+- Me aprofundando em Desenvolvimento Web átraves da B7Web e Origamid <br>
 - Estou focado nas tecnologias voltadas ao Front-End <br>
 - Atualmente estudando Javascript e React <br>
 - Busco constante aprendizado para me tornar Full Stack <br>
