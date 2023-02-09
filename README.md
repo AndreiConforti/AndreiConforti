@@ -11,14 +11,14 @@
 - Estou cursando o 4° semestre em ADS <br>
 - Me aprofundando em Desenvolvimento Web átraves da B7Web e Origamid <br>
 - Estou focado nas tecnologias voltadas ao Front-End <br>
-- Atualmente estudando Javascript e React <br>
+- Atualmente estudando Javascript, Material UX/UI e WordPress <br>
 - Busco constante aprendizado para me tornar Full Stack <br>
 </div>
   
 ***************
 
 <div align="center">
-  <a href="https://github.com/Leticia-Pinheiro">
+  <a href="https://github.com/Andrei-Conforti">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreiConforti&theme=tokyonight" height="165em">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiConforti&layout=compact&langs_count=7&theme=tokyonight" height="165em">
 </div>
@@ -29,28 +29,18 @@
     <img src="https://cdn.simpleicons.org/css3/1C6B94"  height="40" width="40"/> 
     <img src="https://cdn.simpleicons.org/html5/1C6B94" height="40" width="40"/> 
     <img src="https://cdn.simpleicons.org/javascript/1C6B94" height="40" width="40"/> 
-    <img src="https://cdn.simpleicons.org/react/1C6B94" height="40" width="40"/>           
+    <img src="https://cdn.simpleicons.org/WordPress/1C6B94" height="40" width="40"/>           
   </p>
-  
-  <h3 align="center">Back End</h3>
-  <p align="center">
-    <img src="https://cdn.simpleicons.org/nodedotjs/1C6B94" height="40" width="40"/>           
-  </p>
-  
+
   <h3 align="center">Banco de Dados</h3>
   <p align="center">
     <img src="https://cdn.simpleicons.org/mysql/1C6B94" height="40" width="40"/> 
   </p>
   
-  <h3 align="center">DevOps</h3>
-  <p align="center">
-    <img src="https://cdn.simpleicons.org/docker/1C6B94" height="40" width="40"/>        
-  </p>
-  
   <h3 align="center">Ferramentas</h3>
   <p align="center">
-    <img src="https://cdn.simpleicons.org/visualstudio/1C6B94" height="40" width="40"/>    
     <img src="https://cdn.simpleicons.org/figma/1C6B94" height="40" width="40"/> 
+    <img src="https://cdn.simpleicons.org/visualstudio/1C6B94" height="40" width="40"/>    
     <img src="https://cdn.simpleicons.org/git/1C6B94" height="40" width="40"/> 
   </p>
 
