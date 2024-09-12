@@ -7,11 +7,11 @@
 <div>
 - Seja Bem Vindo <br>
 - Sou Andrei Conforti ✌ <br>
-- Um apaixonado por Tecnologia e Arte <br>
-- Estou cursando o 4° semestre em ADS <br>
+- Um apaixonado por Tecnologia <br>
+- Formado em ADS <br>
 - Me aprofundando em Desenvolvimento Web átraves da B7Web e Origamid <br>
 - Estou focado nas tecnologias voltadas ao Front-End <br>
-- Atualmente estudando Javascript, Material UX/UI e WordPress <br>
+- Atualmente estudando Javascript, React e Material UX/UI <br>
 - Busco constante aprendizado para me tornar Full Stack <br>
 </div>
   
@@ -29,7 +29,7 @@
     <img src="https://cdn.simpleicons.org/css3/1C6B94"  height="40" width="40"/> 
     <img src="https://cdn.simpleicons.org/html5/1C6B94" height="40" width="40"/> 
     <img src="https://cdn.simpleicons.org/javascript/1C6B94" height="40" width="40"/> 
-    <img src="https://cdn.simpleicons.org/WordPress/1C6B94" height="40" width="40"/>           
+    <img src="https://cdn.simpleicons.org/react/1C6B94" height="40" width="40"/>           
   </p>
 
   <h3 align="center">Banco de Dados</h3>
@@ -38,9 +38,7 @@
   </p>
   
   <h3 align="center">Ferramentas</h3>
-  <p align="center">
-    <img src="https://cdn.simpleicons.org/figma/1C6B94" height="40" width="40"/> 
-    <img src="https://cdn.simpleicons.org/visualstudio/1C6B94" height="40" width="40"/>    
+  <p align="center">    
     <img src="https://cdn.simpleicons.org/git/1C6B94" height="40" width="40"/> 
   </p>
 
