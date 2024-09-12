@@ -29,7 +29,8 @@
     <img src="https://cdn.simpleicons.org/css3/1C6B94"  height="40" width="40"/> 
     <img src="https://cdn.simpleicons.org/html5/1C6B94" height="40" width="40"/> 
     <img src="https://cdn.simpleicons.org/javascript/1C6B94" height="40" width="40"/> 
-    <img src="https://cdn.simpleicons.org/react/1C6B94" height="40" width="40"/>           
+    <img src="https://cdn.simpleicons.org/react/1C6B94" height="40" width="40"/>
+    <img src="https://cdn.simpleicons.org/mui/1C6B94" height="40" width="40"/>
   </p>
 
   <h3 align="center">Banco de Dados</h3>
