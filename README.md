@@ -33,11 +33,6 @@
     <img src="https://cdn.simpleicons.org/mui/1C6B94" height="40" width="40"/>
   </p>
 
-  <h3 align="center">Banco de Dados</h3>
-  <p align="center">
-    <img src="https://cdn.simpleicons.org/mysql/1C6B94" height="40" width="40"/> 
-  </p>
-  
   <h3 align="center">Ferramentas</h3>
   <p align="center">    
     <img src="https://cdn.simpleicons.org/git/1C6B94" height="40" width="40"/> 
