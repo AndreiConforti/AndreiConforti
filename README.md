@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1C6B94&height=160&section=header&text=Andrei%20Conforti🚀&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" width=100% />
 
-<img align="left" src="[https://media.discordapp.net/attachments/1016512634377482390/1016545689016213595/eu.png](https://cdn.discordapp.com/attachments/1016512634377482390/1016552035149168701/avatar.png?ex=66e30a1b&is=66e1b89b&hm=013b3d12202d44df9c8f241dd97c245e3a9178ef514761c245cde868a3e12a40&)" style="border-radius: 50 px;" height="250" alt="Andrei-pic">
+<img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTF2cWx3OTlxMTlwYTJxNG8yNGJoem1lYnR5bjRvcXk4NGFzeDJmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.webp" style="border-radius: 50 px;" height="250" alt="Andrei-pic">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Dev+Front-End)](https://git.io/typing-svg)
 
