@@ -11,7 +11,7 @@
 - Formado em ADS <br>
 - Me aprofundando em Desenvolvimento Web átraves da B7Web e Origamid <br>
 - Estou focado nas tecnologias voltadas ao Front-End <br>
-- Atualmente estudando Javascript, React e Material UX/UI <br>
+- Atualmente estudando Javascript, React e MUI <br>
 - Busco constante aprendizado para me tornar Full Stack <br>
 </div>
   
@@ -41,6 +41,7 @@
   <h3 align="center">Ferramentas</h3>
   <p align="center">    
     <img src="https://cdn.simpleicons.org/git/1C6B94" height="40" width="40"/> 
+    <img src="https://cdn.simpleicons.org/github/1C6B94" height="40" width="40"/>
   </p>
 
 ***************
